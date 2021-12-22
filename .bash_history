@@ -76,3 +76,8 @@ make score
 ./score
 git init
 git add.
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/sharphand1/for-expanding-knowledge-with-cs50.git
+git push -u origin main
+git add.
