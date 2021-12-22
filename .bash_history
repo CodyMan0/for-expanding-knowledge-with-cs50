@@ -81,3 +81,38 @@ git commit -m "first commit"
 git remote add origin https://github.com/sharphand1/for-expanding-knowledge-with-cs50.git
 git push -u origin main
 git add.
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/sharphand1/for-expanding-knowledge-with-cs50.git
+git push
+./
+.
+/
+cd~/
+clear
+make string
+help50 make string
+./string
+2
+./string
+make string
+make sting
+make string
+./string
+make uppercase
+help50 make uppercase
+make uppercase
+help50 make uppercase
+make uppercase
+./uppercase
+make uppercase
+./uppercase
+make uppercase
+./uppercase
+./~
+./~/
+./
+.~
+clear
+git init
+git add /home/ubuntu/.git/
